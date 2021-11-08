@@ -24,7 +24,9 @@ jobs:
           # extended: true
 
       - name: Pull Theme
-        run: git submodule update --init
+        run: |
+          ls
+          git submodule update --init
 
       - name: Build
         run: hugo --minify
