@@ -10,6 +10,15 @@ On Unix you can install it using a package manager.
 
 ## Development
 
+### Init
 1. Create/clone repo
 1. `hugo new site . --force`
 1. Follow remaining instructions in [tutorial](https://github.com/dzello/reveal-hugo/#create-your-first-presentation).
+
+### Build
+
+To run a server locally, do
+
+```console
+$ hugo server
+```
