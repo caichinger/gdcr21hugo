@@ -27,6 +27,7 @@ jobs:
         run: |
           ls
           git submodule update --init
+          cat .gitmodules
 
       - name: Build
         run: hugo --minify
