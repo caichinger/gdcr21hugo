@@ -23,10 +23,6 @@ jobs:
           hugo-version: "0.88.0"
           # extended: true
 
-      - name: Pull Theme
-        run: |
-          cat .gitmodules
-
       - name: Build
         run: hugo --minify
 
