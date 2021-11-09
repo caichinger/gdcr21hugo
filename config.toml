@@ -4,6 +4,9 @@ title = 'Global Day of Coderetreat 2021 by swkWien at Nagarro'
 
 theme = "reveal-hugo"
 
+[author]
+name = "TODO add facilitators"
+
 [markup.goldmark.renderer]
 unsafe = true
 
