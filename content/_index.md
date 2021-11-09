@@ -1,8 +1,18 @@
 +++
-title = "My presentation"
+description = "A day of deliberate practice and learning"
 outputs = ["Reveal"]
 +++
 
-# Hello world!
+# Global Day of Coderetreat
 
-This is my first slide.
+by swkWien at Nagarro
+
+~ Deliberate Practice ~ Incremental Development ~
+
+---
+
+## Foo
+
+- one
+- two
+- three

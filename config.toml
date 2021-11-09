@@ -1,6 +1,6 @@
 baseURL = 'https://swkwien.github.io/gdcr21hugo/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Global Day of Coderetreat 2021 by swkWien at Nagarro'
 
 theme = "reveal-hugo"
 
