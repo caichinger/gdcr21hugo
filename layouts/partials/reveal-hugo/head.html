@@ -1,0 +1,15 @@
+<!-- This partial is included before the end of the head tag for only the 'example' presentation -->
+<!-- A common use would be to add CSS to the page to customize the theme -->
+<style>
+    .line {
+        background: #40ff40;
+    }
+</style>
+
+<!-- css overrides -->
+<!-- based on https://www.banjocode.com/post/hugo/custom-css/
+     Related changes: TODOCSS
+{{ range .Site.Params.custom_css -}}
+<link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
+{{- end }}
+-->
