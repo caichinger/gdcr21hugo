@@ -3,7 +3,7 @@ description = "A day of deliberate practice and learning"
 outputs = ["Reveal"]
 
 [reveal_hugo]
-custom_theme = "themes/reveal-hugo/robot-lung.css"
+custom_theme = "robot-lung.css"
 margin = 0.2
 highlight_theme = "color-brewer"
 transition = "slide"
