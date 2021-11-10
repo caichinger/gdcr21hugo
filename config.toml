@@ -1,4 +1,4 @@
-baseURL = 'https://swkwien.github.io/gdcr21hugo/'
+baseURL = 'http://caichinger.github.io/gdcr21hugo/'
 languageCode = 'en-us'
 title = 'Global Day of Coderetreat 2021 by swkWien at Nagarro'
 description = "A day of deliberate practice and learning"
