@@ -4,7 +4,8 @@ title = 'Global Day of Coderetreat 2021 by swkWien at Nagarro'
 
 theme = "reveal-hugo"
 
-custom_css = ["css/custom.css"]  # only works in theory, see all related changes: TODOCSS
+[params] # TODOCSS this was missing
+customCSS = ["css/custom.css"]  
 
 [author]
 name = "TODO add facilitators"
