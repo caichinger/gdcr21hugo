@@ -1,11 +1,12 @@
 baseURL = 'https://swkwien.github.io/gdcr21hugo/'
 languageCode = 'en-us'
 title = 'Global Day of Coderetreat 2021 by swkWien at Nagarro'
-
+description = "A day of deliberate practice and learning"
 theme = "reveal-hugo"
+outputs = ["Reveal"]
 
-[params] # TODOCSS this was missing
-customCSS = ["css/custom.css"]  
+[params]
+custom_css = ["css/custom.css"]
 
 [author]
 name = "TODO add facilitators"
