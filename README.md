@@ -12,13 +12,15 @@ On Unix you can install it using a package manager.
 
 ### Init
 
+*Skip these instructions of you clone an existing repository.*
+
 1. Create/clone repo
 1. `hugo new site . --force`
 1. Follow remaining instructions in [tutorial](https://github.com/dzello/reveal-hugo/#create-your-first-presentation).
 
 ### Local Dev
 
-To pull the theme submodule, do
+Clone the repo and
 
 ```console
 $ git submodule update --init
